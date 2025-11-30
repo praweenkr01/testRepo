@@ -1,2 +1,2 @@
 # testRepo
-## will update this kater.
+## This is corrected sentence.
