@@ -40,7 +40,7 @@ void insertNode(int value, struct Node** head){
 This is the entry point of the function.
 */
 int main(){
-    // printf("Hello World");
+    printf("LinkList Implementation");
     struct Node* head=NULL;
     insertNode(1,&head);
     insertNode(2,&head);
